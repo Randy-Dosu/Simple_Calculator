@@ -35,7 +35,7 @@ int main()
             }
             break;
         default:
-            cout << "invalid operational number!";
+            cout << "invalid operational sign!";
     }
     return 0;
 }
